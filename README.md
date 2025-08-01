@@ -6,12 +6,6 @@ This project explores how machine learning can be used to predict “pleasant”
 
 Using daily weather data from 18 European stations (1960–2022), we tested multiple machine learning algorithms to classify each day as “pleasant” or “unpleasant.” Our goal was to identify the most effective models while also uncovering bias and regional variation in prediction accuracy.
 
-## Hypotheses
-
-- The number of pleasant days has decreased in some regions due to climate change.
-- Prediction accuracy will vary based on geographic location and regional climate conditions.
-- No single machine learning algorithm will consistently outperform the others across all stations.
-
 ## Methods Used
 
 - Data source: [European Climate Assessment & Dataset (ECAD)](https://www.ecad.eu/)
