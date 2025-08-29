@@ -13,6 +13,7 @@ Part 2: Expanded into advanced machine learning techniques, including unsupervis
 ## Methods Used
 
 - Data source: [European Climate Assessment & Dataset (ECAD)](https://www.ecad.eu/)
+
 **Part 1 – Supervised Models**  
 - **Algorithms:**  
   - K-Nearest Neighbors (KNN)  
